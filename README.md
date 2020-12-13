@@ -1,1 +1,2 @@
 # nginx-cloudfront
+Configure ngx_http_realip_module behind CloudFront
